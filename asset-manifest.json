@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/poc_react_kanban/static/css/main.3667b2be.css",
+    "main.js": "/poc_react_kanban/static/js/main.72cd8245.js",
+    "index.html": "/poc_react_kanban/index.html",
+    "main.3667b2be.css.map": "/poc_react_kanban/static/css/main.3667b2be.css.map",
+    "main.72cd8245.js.map": "/poc_react_kanban/static/js/main.72cd8245.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3667b2be.css",
+    "static/js/main.72cd8245.js"
+  ]
+}
